@@ -1,1 +1,1 @@
-strSearch
+strMiddleName
