@@ -1,14 +1,3 @@
-create a script that will perform different calculations using 
-functions. The script should have the following functions:
-1 - a function to calculate the sum 
-2 - a function to calculate the product 
-3 - a function to calculate the difference 
-4 - a function to calculate the quotient
-All these functions should take 2 numbers as parameters 
-The script should have the following subroutine:
-1 - a sub to display a welcome message.
-Lastly, the script should display the sum, difference, product
-and quotient of the 2 numbers
 Option Explicit
 Function funcCalcSum(intNum1, intNum2)
     funcCalcSum = intNum1 + intNum2 
